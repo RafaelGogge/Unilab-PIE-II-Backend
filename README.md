@@ -2,7 +2,7 @@
 
 Olá Caros 
 
-### Esse repositório foi criado referente ao projeto do UNILAB, projeto esse desenvolvido referente ao 2º semestre
+### Esse repositório foi criado referente ao projeto do UNILAB, projeto esse desenvolvido referente ao 2º semestre - Primeiro commit efetuado em  Sep 12, 2024
 
 Nele, conterá os arquivos do banco de dados em SQL, os arquivos Java referente ao backend e software e também, os arquivos referente ao front End, desenvolvidos em HTML e CSS.
 
